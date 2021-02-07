@@ -1,24 +1,11 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+- bundle install
 
-Things you may want to cover:
 
-* Ruby version
+- Figaro install and put key in config/application.yml
+DEVISE_JWT_SECRET_KEY: qwewqewqweqwqewqewqeweqweqweq
 
-* System dependencies
 
-* Configuration
+- Configure database.yml with your postgresql user/pass
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
